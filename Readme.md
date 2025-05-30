@@ -116,7 +116,9 @@ The project is structured across a series of Jupyter notebooks, each correspondi
 
 ## 📧 Contact
 
-* [Yashvardhan] - (https://www.linkedin.com/in/yashvardhan-4735121b9/)
+If you have any questions, suggestions, or just want to connect, feel free to reach out:
+
+* **LinkedIn**: [Yashvardhan](https://www.linkedin.com/in/yashvardhan-4735121b9/)
 
 ## 📜 License
 
