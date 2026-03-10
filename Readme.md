@@ -34,9 +34,6 @@ The project progresses through data inspection, exploratory data analysis, hypot
 │   ├── 03_hypothesis_testing.ipynb
 │   ├── 04_logistic_regression.ipynb
 │   └── 05_claim_classification.ipynb
-├── reports/
-│   ├── eda_executive_summary.pptx
-│   └── ml_executive_summary.pptx
 ├── requirements.txt
 └── README.md
 ```
@@ -62,7 +59,6 @@ The project progresses through data inspection, exploratory data analysis, hypot
 
 - **Python** — pandas, NumPy, Matplotlib, Seaborn, SciPy
 - **Machine Learning** — scikit-learn (Logistic Regression, Random Forest), XGBoost
-- **Visualization** — Tableau (executive summaries)
 - **Environment** — Jupyter Notebooks
 
 ## Getting Started
